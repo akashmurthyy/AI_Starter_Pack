@@ -1,7 +1,3 @@
-# AI_Starter_Pack
-Absolutely — here’s a **clear, practical Python checklist** for your **AI Developer roadmap**.
-This is structured in logical phases — from **Python foundations** to **AI-ready skills** — so you can **tick things off step by step**.
-
 ---
 
 ## ✅ **📌 PYTHON AI DEVELOPER CHECKLIST**
