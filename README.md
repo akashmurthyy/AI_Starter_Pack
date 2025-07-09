@@ -115,12 +115,3 @@ This is structured in logical phases — from **Python foundations** to **AI-rea
 
 ---
 
-## 🎯 **How to use this**
-
-✔️ Treat it like a **roadmap checklist**.
-✔️ Mark ✅ when you *understand and can use* the topic.
-✔️ Combine it with **projects** (tiny ML models, notebooks, Kaggle datasets).
-
----
-
-If you want, I can wrap this up as a **printable PDF checklist** or a **Notion template** — want it? 📋✨
