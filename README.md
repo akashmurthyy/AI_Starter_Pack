@@ -21,7 +21,7 @@
 
 ### 📍 **2️⃣ Data Structures (Python-specific)**
 
-* [ ] Lists, tuples, sets, dictionaries
+* [x] Lists, tuples, sets, dictionaries
 * [ ] Iterators & generators (`yield`)
 * [ ] Slicing & indexing
 * [ ] `collections` module (`defaultdict`, `Counter`, `namedtuple`)
@@ -30,9 +30,9 @@
 
 ### 📍 **3️⃣ OOP in Python**
 
-* [ ] Classes & objects
+* [x] Classes & objects
 * [ ] `__init__` and other dunder methods
-* [ ] Inheritance
+* [x] Inheritance
 * [ ] Encapsulation & abstraction
 * [ ] Polymorphism
 * [ ] Decorators (@staticmethod, @classmethod, custom decorators)
