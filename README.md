@@ -11,10 +11,10 @@
 * [x] Basic operators & expressions
 * [x] Conditional statements (`if`, `elif`, `else`)
 * [x] Loops (`for`, `while`)
-* [ ] Functions (arguments, return, scope)
-* [ ] List comprehensions
-* [ ] Exception handling (`try`, `except`, `finally`)
-* [ ] File I/O (`open()`, read/write files)
+* [x] Functions (arguments, return, scope)
+* [x] List comprehensions
+* [x] Exception handling (`try`, `except`, `finally`)
+* [x] File I/O (`open()`, read/write files)
 * [ ] Virtual environments (`venv`, `pipenv`)
 
 ---
@@ -23,7 +23,7 @@
 
 * [x] Lists, tuples, sets, dictionaries
 * [ ] Iterators & generators (`yield`)
-* [ ] Slicing & indexing
+* [x] Slicing & indexing
 * [ ] `collections` module (`defaultdict`, `Counter`, `namedtuple`)
 
 ---
@@ -41,8 +41,8 @@
 
 ### 📍 **4️⃣ Pythonic Programming**
 
-* [ ] `lambda` functions
-* [ ] `map()`, `filter()`, `reduce()`
+* [x] `lambda` functions
+* [x] `map()`, `filter()`, `reduce()`
 * [ ] `zip()`, `enumerate()`
 * [ ] Context managers (`with` statement)
 * [ ] Type hinting (`def func(x: int) -> str:`)
